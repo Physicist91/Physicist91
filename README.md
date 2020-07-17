@@ -29,18 +29,31 @@
 
 <br />
 
+🔭 I'm currently working on making data useful for everyone...
+
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin.siswandi)
+
+🌱 I’m currently learning how to make the world a better place...
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" />
+
+- 💬 Ask me about anything :)
+
+<a href="https://github.com/Physicist91/ml-notes">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=ml-notes" />
+</a>
+
+<a href="https://github.com/Physicist91/systems-identification">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=systems-identification" />
+</a>
 
 <!--
 **Physicist91/Physicist91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
