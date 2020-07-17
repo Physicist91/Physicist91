@@ -32,8 +32,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin.siswandi)
 
-🔭 I'm currently working on making data useful for everyone  
-🌱 I’m currently learning how to make the world a better place
+🔭 Working on making data useful for everyone  
+🌱 Learning how to make the world a better place
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" />
 
