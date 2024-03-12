@@ -33,7 +33,7 @@
 
 💬 Ask me about anything :)
 
-<a href="https://github.com/Physicist91/ml-notes">
+<a href="https://github.com/Physicist91/dfvp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=ml-notes" />
 </a>
 
