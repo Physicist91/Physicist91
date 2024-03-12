@@ -34,7 +34,7 @@
 💬 Ask me about anything :)
 
 <a href="https://github.com/Physicist91/dvfp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=ml-notes" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=dvfp" />
 </a>
 
 <a href="https://github.com/Physicist91/systems-identification">
