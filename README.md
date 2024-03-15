@@ -21,17 +21,21 @@
   <img align="left" alt="Kevin Siswandi | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
 </a>
 
+<a href="https://github.com/Physicist91/genai-quick">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=genai-quick" />
+</a>
+
 <br />
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin.siswandi)
 
 🔭 Working on making data useful for everyone  
-🌱 Learning how to make the world a better place
+🌱 Learning how to make the world a better place  
+💬 Talk to me in English, Mandarin Chinese, or Bahasa  
+⚡ Fun fact: You can create the Github-style calendar heatmap with [plotly-calplot](https://github.com/brunorosilva/plotly-calplot?tab=readme-ov-file)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/d1zp7XeNrzpWo/giphy.gif" />
-
-💬 Ask me about anything :)
 
 <a href="https://github.com/Physicist91/dvfp">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Physicist91&repo=dvfp" />
@@ -50,5 +54,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
