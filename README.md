@@ -30,8 +30,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=kevin.siswandi)
 
-🔭 Working on making data useful for everyone  
-🌱 Learning how to make the world a better place  
+🔭 Look into the **stars**  
+🌱 Let's make the world a better place  
 💬 Talk to me in English, Mandarin Chinese, or Bahasa  
 ⚡ Fun fact: You can create the Github-style calendar heatmap with [plotly-calplot](https://github.com/brunorosilva/plotly-calplot?tab=readme-ov-file)
 
