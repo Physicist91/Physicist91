@@ -28,8 +28,6 @@
 <br />
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=kevin.siswandi)
-
 🔭 Look into the **stars**  
 🌱 Let's make the world a better place  
 💬 Talk to me in English, Mandarin Chinese, or Bahasa  
